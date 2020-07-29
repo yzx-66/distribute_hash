@@ -1,5 +1,5 @@
 # distribute_hash
-数据结构课程设计 分布式一致性hash算法
+分布式一致性hash算法
 
 ![输入图片说明](https://github.com/yzx66-net/distribute_hash/blob/master/img-explane/1.png "屏幕截图.png")
 
